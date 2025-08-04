@@ -90,10 +90,10 @@ Techniques for reducing the number of input features:
 
 ---
 
-### 📂 [Model Selection & Boosting](./Model%20Selection%20%26%20Boosting/)
+### [Model Selection & Boosting](./Model%20Selection%20%26%20Boosting/)
 Techniques for model performance optimization:
 - GridSearchCV and Cross-Validation
-- Boosting: AdaBoost, Gradient Boosting, XGBoost
+- Boosting: Gradient Boosting, XGBoost & CatBoost
 
 ---
 
